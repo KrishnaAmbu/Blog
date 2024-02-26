@@ -8,6 +8,7 @@ function Addblog() {
         <br /><br />
         <TextField variant='outlined' label="Blog name"/>
         <br />
+        <TextField variant='outlined' label="Author name"/><br />
         <TextField variant='outlined' label="Description"/><br /><br />
         <Button variant='contained' >submit</Button><br />
        
